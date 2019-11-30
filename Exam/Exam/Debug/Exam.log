@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\files from the vampire\来吧，大学\计算机图形学\exam\exam\main.cpp(194): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  Exam.vcxproj -> E:\Files From the Vampire\来吧，大学\计算机图形学\Exam\Debug\Exam.exe

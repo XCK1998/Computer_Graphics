@@ -1,0 +1,54 @@
+﻿  main.cpp
+e:\files from the vampire\来吧，大学\计算机图形学\borrow\borrow\main.cpp(134): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\files from the vampire\来吧，大学\计算机图形学\borrow\borrow\main.cpp(213): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\files from the vampire\来吧，大学\计算机图形学\borrow\borrow\main.cpp(219): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\files from the vampire\来吧，大学\计算机图形学\borrow\borrow\main.cpp(220): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\files from the vampire\来吧，大学\计算机图形学\borrow\borrow\main.cpp(223): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\files from the vampire\来吧，大学\计算机图形学\borrow\borrow\main.cpp(224): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\files from the vampire\来吧，大学\计算机图形学\borrow\borrow\main.cpp(226): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\files from the vampire\来吧，大学\计算机图形学\borrow\borrow\main.cpp(227): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\files from the vampire\来吧，大学\计算机图形学\borrow\borrow\main.cpp(342): warning C4715: “transDirection”: 不是所有的控件路径都返回值
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glTexParameteri
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glTexImage2D
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glClear
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glClearColor
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glDepthMask
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glEnable
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glBlendFunc
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glDepthFunc
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glViewport
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glDrawArrays
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glDrawElements
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glBindTexture
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glGenTextures
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glActiveTexture
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glBindBuffer
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glGenBuffers
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glBufferData
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glAttachShader
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glCompileShader
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glCreateProgram
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glCreateShader
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glDeleteProgram
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glDeleteShader
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glDetachShader
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glEnableVertexAttribArray
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glGetProgramiv
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glGetProgramInfoLog
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glGetShaderiv
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glGetShaderInfoLog
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glGetUniformLocation
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glLinkProgram
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glShaderSource
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glUseProgram
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glUniform1f
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glUniform3f
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glUniform1i
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glUniformMatrix4fv
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glValidateProgram
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glVertexAttribPointer
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glGenerateMipmap
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glBindVertexArray
+main.obj : error LNK2001: 无法解析的外部符号 _glad_glGenVertexArrays
+E:\Files From the Vampire\来吧，大学\计算机图形学\Borrow\Debug\Borrow.exe : fatal error LNK1120: 42 个无法解析的外部命令
